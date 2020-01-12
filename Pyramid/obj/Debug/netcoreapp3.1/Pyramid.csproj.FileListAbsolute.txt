@@ -1,0 +1,11 @@
+C:\Users\TOMI\source\repos\Pyramid\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.exe
+C:\Users\TOMI\source\repos\Pyramid\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.deps.json
+C:\Users\TOMI\source\repos\Pyramid\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.runtimeconfig.json
+C:\Users\TOMI\source\repos\Pyramid\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.runtimeconfig.dev.json
+C:\Users\TOMI\source\repos\Pyramid\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.dll
+C:\Users\TOMI\source\repos\Pyramid\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.pdb
+C:\Users\TOMI\source\repos\Pyramid\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.csprojAssemblyReference.cache
+C:\Users\TOMI\source\repos\Pyramid\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.AssemblyInfoInputs.cache
+C:\Users\TOMI\source\repos\Pyramid\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.AssemblyInfo.cs
+C:\Users\TOMI\source\repos\Pyramid\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.dll
+C:\Users\TOMI\source\repos\Pyramid\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.pdb
